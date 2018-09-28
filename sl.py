@@ -57,3 +57,99 @@ while (count<=100):
 	else:
 		count=100
 		print("i won the game")
+		
+	OUTPUT
+	enter r to roll a dicer
+my position
+your random value 3
+enter r to roll a dicer
+my position
+your random value 2
+enter r to roll a dicer
+my position
+your random value 2
+enter r to roll a dicer
+my position
+your random value 2
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a diceR
+enter r to roll a dicer
+my position
+your random value 3
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicerr
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 3
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dicer
+my position
+your random value 6
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dicer
+my position
+your random value 3
+enter r to roll a dicer
+my position
+your random value 4
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a dicer
+my position
+your random value 1
+enter r to roll a dicer
+my position
+your random value 5
+enter r to roll a dice
+enter r to roll a dicer
+my position
+your random value 1
+i won the game
+
+		
+		
+		
+		
+		
