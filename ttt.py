@@ -39,4 +39,108 @@ while True:
         else:
                  print("you have entered an invalied position")
                  continue
-                       
+               cl308@soetcse:~/pramodh$ python3 ttt.py
+1 | 2 | 3
+........
+4 | 5 | 6
+........
+7 | 8 | 9
+choose an available place1
+player 1>>
+Traceback (most recent call last):
+  File "ttt.py", line 20, in <module>
+    playerOneTurn= notlpayerOneTurn
+NameError: name 'notlpayerOneTurn' is not defined
+cl308@soetcse:~/pramodh$ python3 ttt.py
+1 | 2 | 3
+........
+4 | 5 | 6
+........
+7 | 8 | 9
+choose an available placehj
+you have entered an invalied position
+1 | 2 | 3
+........
+4 | 5 | 6
+........
+7 | 8 | 9
+choose an available place3
+player 1>>
+Traceback (most recent call last):
+  File "ttt.py", line 20, in <module>
+    PlayerOneTurn = not PlayerOneTurn
+NameError: name 'notlpayerOneTurn' is not defined
+cl308@soetcse:~/pramodh$ python3 ttt.py
+1 | 2 | 3
+........
+4 | 5 | 6
+........
+7 | 8 | 9
+choose an available place9
+player 1>>
+1 | 2 | 3
+........
+4 | 5 | 6
+........
+7 | 8 | x
+choose an available place4
+player 2 >>
+1 | 2 | 3
+........
+o | 5 | 6
+........
+7 | 8 | x
+choose an available place4
+you have entered an invalied position
+1 | 2 | 3
+........
+o | 5 | 6
+........
+7 | 8 | x
+choose an available place5
+player 1>>
+1 | 2 | 3
+........
+o | x | 6
+........
+7 | 8 | x
+choose an available place6
+player 2 >>
+1 | 2 | 3
+........
+o | x | o
+........
+7 | 8 | x
+choose an available place7
+player 1>>
+1 | 2 | 3
+........
+o | x | o
+........
+x | 8 | x
+choose an available place7
+you have entered an invalied position
+1 | 2 | 3
+........
+o | x | o
+........
+x | 8 | x
+choose an available place8
+player 2 >>
+1 | 2 | 3
+........
+o | x | o
+........
+x | o | x
+choose an available place9
+you have entered an invalied position
+1 | 2 | 3
+........
+o | x | o
+........
+x | o | x
+choose an available place1
+player 1>>
+game over
+cl308@soetcse:~/pramodh$   
+        
