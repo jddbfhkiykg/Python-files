@@ -5,7 +5,7 @@ myemail=input("your email id:")
 passward=getpass.getpass()
 recemail=input("recevier's email id :")
 
-# creats SMPT session
+# creats SMTP session
 s=smtplib.SMTP('smtp.gmail.com',587)
 
 #start TLS for security
